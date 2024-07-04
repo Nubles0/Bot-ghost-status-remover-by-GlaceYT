@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["“O que valoriza o grupo é o compromisso com o grupo”.","“A selva não pertence ao mais forte, mas ao sóbrio, habilidoso e resistente”."];
 
 
 let currentIndex = 0;
