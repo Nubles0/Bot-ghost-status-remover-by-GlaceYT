@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["“As amizades forjadas nas agruras da selva, jamais fenecem”.","“A selva não pertence ao mais forte, mas ao sóbrio, habilidoso e resistente”."];
 
 
 let currentIndex = 0;
